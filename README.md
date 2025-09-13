@@ -53,7 +53,7 @@ Born2beRoot is a system administration project from the 42 curriculum. This proj
 
 ## 🌟 Bonus (Optional)
 - 💽 Additional partitioning setup.
-- 🌍 Deployment of a WordPress website with Lighttpd, MariaDB, and PHP.
+- 🌍 Deployment of a WordPress website with Lighttpd, MariaDB.
 - 🔧 Setup of a useful custom service (excluding Apache/Nginx).
 
 ## 📜 Submission Guidelines
